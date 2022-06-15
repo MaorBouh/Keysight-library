@@ -1,2 +1,2 @@
 # Keysight-library
-Keysight spectrum analyzer and siggen control 
+python Keysight spectrum analyzer and siggen control 
